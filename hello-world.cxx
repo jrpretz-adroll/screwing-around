@@ -4,4 +4,5 @@ using namesapce std;
 
 int main(){
   cout<<"hello world"<<endl;
+  cout<<"testing testing testing"<<endl;
 }
